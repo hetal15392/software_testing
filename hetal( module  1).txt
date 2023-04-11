@@ -1,0 +1,88 @@
+What is SDLC
+SDLC is a process in which any application to be developed.
+there are six phases in SDLC
+  -requirement phase
+  -anyl.phase
+  -designimg phase
+  -testing phase
+  -implementation phase
+  -maintanance phase
+
+ What is software testing?
+software testing is a process of used to identifying the correctness,completeness and qualiy of deveoped product.
+
+ What is agile methodology?
+Agile methodology is a combination of iterative and increamental model with focus on process adaptability and customer satisfaction by rapid delivery of working software.
+
+ What is SRS
+SRS is a system requirement specification. it is a document done by customers requirement.
+
+ What is oops
+oops is a object oriented programming system.
+
+ Write Basic Concepts of oops
+  - object
+  - class
+  - encapsulation
+  - abstaction
+  - inheritance
+  - polymorphysum
+
+ What is object
+object is a one type of small identity.exa.number,alphabet.
+
+ What is class
+ class defineds the method of objects exa. car
+
+ What is encapsulation
+encapsulation means hides or wrapping the whole class
+ 
+ What is inheritance
+inheritance means that one class inherites characteristic from another class 
+
+ What is polymorphism
+polymorphism means many forms. the ability to change forms is called polymorphism.
+
+ Draw Usecase on Online book shopping
+ Draw Usecase on online bill payment system (paytm)
+ Write SDLC phases with basic introduction
+there are six phases in sdlc
+ 1) requirement : in req. phase all the information gatherd from client and made SRS document.in req phase all informaion gatherd according to client's need.
+ 2) analysis : in anl. phase all requirement which is collected anylised and finalised the process
+ 3) design : in designing phase genetare a blue print of any application through design architecture.
+ 4) implementation : after design the applicaion code is made by developer in implemetation phase and unit testing is done by developer in this phase.
+ 5) testing : in testing phase tester works to check quality of product and also check any missing featured is not lecking
+ 6) maintanance : it comes after deployment of software into the field the develop. organisation or team will have some mechanism to document & track the defect & efficiency.
+
+ Explain Phases of the waterfall model
+ 1) requirement : in requ. phase all req collects from client and made  SRS documents according to customer's requirement.
+ 2) analyse : in this phase analyse all requirement.if enter to the anylise phase can not revet back to requirement phase.
+ 3) design : requiremnet specification from first phase are studyig and design is prepared.
+ 4) implementation :with inputs from system design , system is first developed in units. each unit is developed and testing by developer.
+ 5) testing :all the unit implemented are integrated into system after testing of each unit.
+ 6) maintanance :there are some issue comes from clints anvironment. to phase this issue maintanance phase is required.
+
+ Write phases of spiral model
+ - requirement 
+ - anylise
+ - design
+ - implementation
+ - testing
+ - review
+
+ Explain working methodology of agile model and also write pros and cons.
+agile method is a combination of iterative and incremental model. in agile model task devided in to small iteration. if ane iteration is completed and there is any need to change,secind iteration starts from requi.phases.
+ pros : - agile methodology is usefull in long and on going project
+        - it reduces development time.it is a time saver
+        - this method reduce work load
+        - in high risk project this method is usefull.
+        - easy to mange
+        - it promotes team work
+        - changes are acceptable at any time
+cons  : - in small project this method can not work
+        - more resource required in this model
+        - more management team required
+        - if customer is not cleared team may be driven in wrong direction.
+        
+ Draw usecase on Online shopping product using COD.
+ Draw usecase on Online shopping product using payment gatway
